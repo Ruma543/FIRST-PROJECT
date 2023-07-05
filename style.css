@@ -8,5 +8,12 @@ body{
   background-color: antiquewhite;
 }
 h1,p{
+  text-align: justify;
+  background-color: aquamarine;
+}
+img{
+ 
+}
+ol{
   background-color: aquamarine;
 }
